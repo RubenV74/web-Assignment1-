@@ -1,0 +1,40 @@
+{
+  "families": [
+    {
+      "id": 1,
+      "name": "Smith",
+      "members": [
+        "Ruben",
+        "Jane",
+        "Bob"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Doe",
+      "members": [
+        "Alice",
+        "Charlie",
+        "Eve"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Johnson",
+      "members": [
+        "Michael",
+        "Emily"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ventura",
+      "members": [
+        "Ruben",
+        "Aaron",
+        "Nahman",
+        "Meron"
+      ]
+    }
+  ]
+}
